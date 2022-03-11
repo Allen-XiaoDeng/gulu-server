@@ -1,0 +1,12 @@
+{
+  "name": "gulu-server",
+  "version": "0.0.1",
+  "bin": {
+    "g": "index.ts"
+  },
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
